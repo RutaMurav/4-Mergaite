@@ -33,6 +33,7 @@
             line-height: 20px ;
             border: 4px solid transparent;
             border-radius: 22px;
+            text-decoration: none;
         }
         nav>a:last-child{
             padding-left: 20px;
